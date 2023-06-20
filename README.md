@@ -6,6 +6,7 @@
 - 📫 Contate-me no e-mail: jpadilha53@gmail.com
 - ⚡ Diversão: Games, Skateboard, Animes...
 - 💻 Linguagens que utilizo:
+- 🔗 Portifólio: <a>https://jef-sorridente.github.io/Portifolio-2023/</a>
 
 <div style="display: inline-block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
