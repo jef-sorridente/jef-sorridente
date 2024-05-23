@@ -1,10 +1,9 @@
 ## Olá! Eu sou Jeferson Soares!
 
 
-- 🔭 Hoje trabalho como Assistente de Tecnologia
-- 🌱 Estudando React, JS, HTML e Css.
+- 🔭 Hoje trabalho como Assistente de Tecnologia.
+- 🌱 Estudando Engenharia de Frontend na EBAC.
 - 📫 Contate-me no e-mail: jpadilha53@gmail.com
-- ⚡ Diversão: Games, Skateboard, Animes...
 - 🔗 Portifólio: <a>https://jef-sorridente.github.io/Portifolio-2023/</a>
 - 💻 Linguagens que utilizo:
 
