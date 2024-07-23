@@ -2,7 +2,7 @@
 
 
 - 🔭 Buscando uma oportunidade no mercado de Desenvolvimento.
-- 🌱 Estudando Engenharia de Frontend na EBAC.
+- 🌱 Estudando ADS na QI e Engenharia de Frontend na EBAC.
 - 🔗 Portifólio: <a>https://portifolio-jeferson-soares.vercel.app/</a>
 - 💻 Linguagens que utilizo:
 
