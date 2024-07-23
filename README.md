@@ -1,9 +1,8 @@
 ## Olá! Eu sou Jeferson Soares!
 
 
-- 🔭 Hoje trabalho como Assistente de Tecnologia.
+- 🔭 Buscando uma oportunidade no mercado de Desenvolvimento.
 - 🌱 Estudando Engenharia de Frontend na EBAC.
-- 📫 Contate-me no e-mail: jpadilha53@gmail.com
 - 🔗 Portifólio: <a>https://portifolio-jeferson-soares.vercel.app/</a>
 - 💻 Linguagens que utilizo:
 
