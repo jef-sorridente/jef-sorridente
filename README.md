@@ -19,5 +19,8 @@
 </div>
 
 - 📈 Status:
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=jef-sorridente&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jef-sorridente&layout=compact&langs_count=7&theme=dark" />
+  
+</div>
